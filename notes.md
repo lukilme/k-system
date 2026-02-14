@@ -1,0 +1,1 @@
+configurar o zotero para abrir sua api, quando for utilizar qualquer serviço do zotero, necessário abri-lo primeiro
