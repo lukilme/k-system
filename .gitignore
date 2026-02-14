@@ -1,4 +1,4 @@
 .venv
 .test
 references/zotero/storage/*
-references/zotero/translators
+references/zotero/translators/*
