@@ -9,4 +9,4 @@ zot = zotero.Zotero(
 
 items = zot.top(limit=5)
 print("="*40)
-print(json.dumps(items[0], indent=2))
+print(json.dumps(items, indent=2))
